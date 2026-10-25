@@ -1,0 +1,16 @@
+{
+  "name": "dapur-rasa-online-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dapur Rasa online store with a secure server-side Midtrans Snap integration scaffold",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
